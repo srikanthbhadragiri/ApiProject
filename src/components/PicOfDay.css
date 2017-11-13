@@ -1,0 +1,18 @@
+.PicOfDay {
+  text-align: center;
+}
+
+.PicTitle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.PicContent {
+  font-style: normal;
+  font-weight: lighter;
+  font-kerning: normal;
+  font-stretch: expanded;
+  font-size-adjust: auto;
+  font-size: 8px;
+}
